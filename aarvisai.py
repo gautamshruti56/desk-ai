@@ -13,7 +13,7 @@ import openai
 
 def Aarvis():
     try:
-        apikey = 'AIzaSyClvZ-UntdAi3ndOzg7lTvJp9jj_uyBzl8'
+        apikey = 'YOUR API KEY HERE'
         def ai(prompt):
             openai.api_key = apikey
             text = f'OpenAI response for prompt: {prompt} \n *************************\n\n'
