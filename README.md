@@ -32,6 +32,10 @@ This is a **voice-enabled desktop AI assistant** built using Python. I developed
 
 ## 📸 Screenshots
 ![Screenshot 2025-07-09 185148](https://github.com/user-attachments/assets/8a8d110f-fcaa-4b0b-bdaa-0c7604d4493a)
+![Screenshot 2025-07-09 185326](https://github.com/user-attachments/assets/cec40d8d-d0b7-4179-87e2-87a0b895541f)
+![Screenshot 2025-07-09 185524](https://github.com/user-attachments/assets/1e8a0911-b907-43b1-b667-28f1b8b719c1)
+![Screenshot 2025-07-09 185852](https://github.com/user-attachments/assets/1b4ca34f-e2c3-4243-8306-fef5c7a1e066)
+
 
 ## 🧾 Requirements
 
